@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/gustavomelo20/app_builder_page#readme",
   "dependencies": {
-    "@editorjs/editorjs": "^2.21.0"
+    "@editorjs/embed": "^2.4.6",
+    "@editorjs/header": "^2.6.1",
+    "@editorjs/list": "^1.6.2"
+  },
+  "devDependencies": {
+    "@editorjs/editorjs": "^2.21.0",
+    "sass": "^1.32.12"
   }
 }
